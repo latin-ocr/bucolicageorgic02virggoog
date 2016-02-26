@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bucolicageorgic02virggoog/bucolicageorgic02virggoog_0003.png"; bbox 0 0 783 1188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 293 403 312 588">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 293 403 312 588">
+     <span class='ocr_line' id='line_1_1' title="bbox 293 403 312 588; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 293 538 312 588; x_wconf 69' lang='lat' dir='ltr'>mom</span> <span class='ocrx_word' id='word_1_2' title='bbox 296 492 312 528; x_wconf 72' lang='grc' dir='ltr'>τΗΕ</span> <span class='ocrx_word' id='word_1_3' title='bbox 294 403 311 481; x_wconf 65' lang='lat' dir='ltr'>mulum(</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 324 484 333 502">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 324 484 333 502">
+     <span class='ocr_line' id='line_1_2' title="bbox 324 484 333 502; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 324 484 333 502; x_wconf 78' lang='lat' dir='ltr'>or</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 346 354 394 633">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 346 354 394 633">
+     <span class='ocr_line' id='line_1_3' title="bbox 346 354 364 633; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 348 530 364 633; x_wconf 72' lang='lat' dir='ltr'>PROFESSGR</span> <span class='ocrx_word' id='word_1_6' title='bbox 347 457 363 518; x_wconf 75' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_7' title='bbox 347 432 362 446; x_wconf 81' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_8' title='bbox 346 354 362 420; x_wconf 75' lang='lat' dir='ltr'>FRIEZE.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 381 461 394 536; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 381 461 394 536; x_wconf 51' lang='lat' dir='ltr'>-ae-u-a*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 90 77 698 1066">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 90 77 698 1066">
+     <span class='ocr_line' id='line_1_5' title="bbox 90 77 698 1066; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 90 77 698 1066; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
